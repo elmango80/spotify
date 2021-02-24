@@ -7,9 +7,10 @@ deploy/
 build/
 public/frontend-react-components.css
 public/frontend-react-components.js
+src/config.js
+
 .vscode
 .idea/
-
 
 # Created by https://www.gitignore.io/api/vim,node,macos,intellij+all
 
